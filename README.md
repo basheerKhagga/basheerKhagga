@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @basheerKhagga
+- 👋 Hi, I’m Muhammad Dawood
 - 👀 I’m interested in Programming, Problem solving, cyber security
 - 🌱 I’m currently learning Cybersecurity 
 - 💞️ I’m looking to collaborate on anything related to programming
